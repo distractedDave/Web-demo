@@ -183,7 +183,7 @@ INSERT INTO `wf_duplicator_packages` VALUES("1", "20150911_waterford", "55f316ed
 INSERT INTO `wf_options` VALUES("1", "siteurl", "http://waterford", "yes");
 INSERT INTO `wf_options` VALUES("2", "home", "http://waterford", "yes");
 INSERT INTO `wf_options` VALUES("3", "blogname", "waterford", "yes");
-INSERT INTO `wf_options` VALUES("4", "blogdescription", "Waterford Learning with the Speed of Light", "yes");
+INSERT INTO `wf_options` VALUES("4", "blogdescription", "Waterford - Learning with the Speed of Light", "yes");
 INSERT INTO `wf_options` VALUES("5", "users_can_register", "0", "yes");
 INSERT INTO `wf_options` VALUES("6", "admin_email", "tyler@builtbyhq.com", "yes");
 INSERT INTO `wf_options` VALUES("7", "start_of_week", "1", "yes");
